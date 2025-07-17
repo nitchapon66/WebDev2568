@@ -47,7 +47,7 @@ mysite/
 
 ##### ก่อนเริ่มใช้งาน
 ```powershell
-git clone -b Week03-04 https://github.com/Wattanaroj2567/WebDev2568.git
+git clone -b Week03-04 https://github.com/nitchapon66/WebDev2568.git
 ```
 
 ---
