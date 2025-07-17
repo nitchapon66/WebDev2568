@@ -60,7 +60,7 @@ python -m venv .venv
 
 **เปิดใช้งาน (ทำทุกครั้งที่เปิด Terminal ใหม่)**
 ```powershell
-.\venv\Scripts\activate
+.venv/Scripts/activate
 ```
 
 ### 1.2 ติดตั้งไลบรารีที่จำเป็น
