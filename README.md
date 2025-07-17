@@ -45,9 +45,7 @@ mysite/
 └── requirements.txt
 ```
 
-##### ก่อนเริ่มใช้งาน
-```powershell
-git clone -b Week03-04 https://github.com/Wattanaroj2567/WebDev2568.git
+
 ```
 ---
 
