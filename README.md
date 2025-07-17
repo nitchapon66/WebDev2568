@@ -55,7 +55,7 @@ git clone -b Week03-04 https://github.com/nitchapon66/WebDev2568.git
 ### 1.1 สร้างและเปิดใช้งาน Virtual Environment
 **สร้างสภาพแวดล้อม (ทำครั้งแรก)**
 ```powershell
-py -m venv .venv
+python -m venv .venv
 ```
 
 **เปิดใช้งาน (ทำทุกครั้งที่เปิด Terminal ใหม่)**
